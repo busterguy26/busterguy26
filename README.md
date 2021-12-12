@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @busterguy26
+- 👀 I’m interested in Javascript(React), Python(Flask, Django)
+- 🌱 I’m currently learning JS, Phython
+- 💞️ I’m looking to collaborate on custom CRM and ERP
+- 📫 busterguy26@gmail.com
